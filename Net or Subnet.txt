@@ -1,0 +1,70 @@
+115.1.0.0/16
+
+This is Subnet Class
+
+
+-------------
+
+74.0.0.0/8
+
+This is a complete Class A Network
+
+-------------
+
+199.198.197.196/8
+
+This is a block of mant class C networks
+
+-------------
+
+222.0.0.0/8
+
+This is a block of mant class C networks
+
+-------------
+
+40.50.30.20/8
+
+This is one of the IP addresses of a complete Class B network
+
+-------------
+
+2.0.0.2/16
+
+It is a subnet of a class A network
+
+-------------
+
+172.16.0.0/24
+
+It is a subnet of a class B network
+
+-------------
+
+10.0.0.0/8
+
+This is a complete Class A Network
+
+-------------
+
+100.100.80.1/8
+
+This is one of the IP addresses of a complete Class A network
+
+-------------
+
+6.6.6.6/16
+
+It is a subnet of a class A network
+
+-------------
+
+1.0.0.0/8
+
+This is a complete Class A Network
+
+-------------
+
+235.235.0.0/24
+
+This is a complete Class C Network
