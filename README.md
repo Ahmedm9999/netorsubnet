@@ -1,4 +1,4 @@
-In this assignment we were asked to do calculations on many IP addresses and to check each of the addresses whether it is a NET or SUBNET address, I will also attach the questions of the assignment here in the README and in the file called CALCULATIONS.TXT you can see the answers accordingly .
+In this assignment we were asked to do calculations on many IP addresses and to check each of the addresses whether it is a NET or SUBNET address, I will also attach the questions of the assignment here in the README and in the file called netorsubnet.TXT you can see the answers accordingly .
 
 
 # Net or Subnet?
